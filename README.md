@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Password-validator
 =======
 # React + Vite
